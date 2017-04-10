@@ -57,3 +57,14 @@ nav a:hover {
 .join-now {
   background-color: #444;
 }
+
+a.card {
+  border-radius: 10px;
+  text-decoration: none;
+  color: #000;
+}
+
+a.card:hover {
+  background-color: #000;
+  color: #fff;
+}
