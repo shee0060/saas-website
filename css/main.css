@@ -10,7 +10,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
-  font-family: 'Dosis', sans-serif;
+  font-family: "Dosis", sans-serif;
 }
 
 *, *::before, *::after {
@@ -19,10 +19,9 @@ html {
 
 nav a {
   display: block;
-  color:#555;
+  color: #555;
   background-color: #f2f2f2;
   border: 1px solid #000;
-  text-decoration: none;
 }
 
 nav a:hover {
