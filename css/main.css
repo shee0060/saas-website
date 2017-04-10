@@ -21,7 +21,6 @@ nav a {
   display: block;
   color: #555;
   background-color: #f2f2f2;
-  border: 1px solid #000;
   text-decoration: none;
 }
 
@@ -31,31 +30,39 @@ nav a:hover {
 }
 
 .vectors-1, .vectors-2 {
-  border: 3px solid #4ff;
+  border: 5px solid #4ff;
 }
 
 .photos-1, .photos-2 {
-  border: 3px solid #f4f;
+  border: 5px solid #f4f;
 }
 
 .scanning-1, .scanning-2 {
-  border: 3px solid #ff4;
+  border: 5px solid #ff4;
 }
 
 .editing-1, .editing-2 {
-  border: 3px solid #44f;
+  border: 5px solid #44f;
 }
 
 .sharing-1, .sharing-2 {
-  border: 3px solid #4f4;
+  border: 5px solid #4f4;
 }
 
 .community-1, .community-2 {
-  border: 3px solid #f44;
+  border: 5px solid #f44;
 }
 
 .join-now {
-  background-color: #444;
+  background-color: #fff;
+}
+
+.single-1 {
+  background-color: #f2f;
+}
+
+.corporate-1 {
+  background-color: #2ff;
 }
 
 a.card {
@@ -67,4 +74,18 @@ a.card {
 a.card:hover {
   background-color: #000;
   color: #fff;
+}
+
+footer {
+  background-color: #555;
+  color: #fff;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #000;
 }
