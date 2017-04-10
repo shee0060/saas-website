@@ -30,30 +30,30 @@ nav a:hover {
   background-color: #000;
 }
 
-.vectors-2 {
-  background-color: #44ffff;
+.vectors-1, .vectors-2 {
+  background-color: #4ff;
 }
 
-.photos-2 {
-  background-color: #ff44ff;
+.photos-1, .photos-2 {
+  background-color: #f4f;
 }
 
-.scanning-2 {
-  background-color: #ffff44;
+.scanning-1, .scanning-2 {
+  background-color: #ff4;
 }
 
-.editing-2 {
-  background-color: #4444ff;
+.editing-1, .editing-2 {
+  background-color: #44f;
 }
 
-.sharing-2 {
-  background-color: #44ff44;
+.sharing-1, .sharing-2 {
+  background-color: #4f4;
 }
 
-.community-2 {
-  background-color: #ff4444;
+.community-1, .community-2 {
+  background-color: #f44;
 }
 
 .join-now {
-  background-color: #444444;
+  background-color: #444;
 }
