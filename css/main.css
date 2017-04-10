@@ -31,27 +31,27 @@ nav a:hover {
 }
 
 .vectors-1, .vectors-2 {
-  background-color: #4ff;
+  border: 3px solid #4ff;
 }
 
 .photos-1, .photos-2 {
-  background-color: #f4f;
+  border: 3px solid #f4f;
 }
 
 .scanning-1, .scanning-2 {
-  background-color: #ff4;
+  border: 3px solid #ff4;
 }
 
 .editing-1, .editing-2 {
-  background-color: #44f;
+  border: 3px solid #44f;
 }
 
 .sharing-1, .sharing-2 {
-  background-color: #4f4;
+  border: 3px solid #4f4;
 }
 
 .community-1, .community-2 {
-  background-color: #f44;
+  border: 3px solid #f44;
 }
 
 .join-now {
