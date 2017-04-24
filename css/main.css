@@ -10,7 +10,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
-  font-family: "Dosis", sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 *, *::before, *::after {
@@ -58,15 +58,17 @@ nav a:hover {
 }
 
 .single-1 {
-  background-color: #f2f;
+  background-color: #fff;
+  border: 15px solid #D3F3F5;
 }
 
 .corporate-1 {
-  background-color: #2ff;
+  background-color: #fff;
+  border: 15px solid #71DCE5;
 }
 
 a.card {
-  border-radius: 10px;
+  border-radius: 20px;
   text-decoration: none;
   color: #000;
 }
@@ -74,6 +76,7 @@ a.card {
 a.card:hover {
   background-color: #000;
   color: #fff;
+  border: 15px solid #000;
 }
 
 footer {
