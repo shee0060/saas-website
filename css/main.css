@@ -10,7 +10,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
-  font-family: "Raleway", sans-serif;
+  font-family: Raleway, sans-serif;
 }
 
 *, *::before, *::after {
@@ -19,8 +19,8 @@ html {
 
 nav a {
   display: block;
-  color: #555;
-  background-color: #f2f2f2;
+  color: #1e969f;
+  background-color: #9ce4ea;
   text-decoration: none;
 }
 
@@ -29,28 +29,49 @@ nav a:hover {
   background-color: #000;
 }
 
-.vectors-1, .vectors-2 {
-  border: 5px solid #4ff;
+h1, h2, p {
+  color: #1e969f;
 }
 
-.photos-1, .photos-2 {
-  border: 5px solid #f4f;
+.features-index {
+  background-color: #f2f2f2;
 }
 
-.scanning-1, .scanning-2 {
-  border: 5px solid #ff4;
+.vectors-1 {
+  background-color: #fff;
 }
 
-.editing-1, .editing-2 {
-  border: 5px solid #44f;
+.photos-1 {
+  background-color: #fff;
 }
 
-.sharing-1, .sharing-2 {
-  border: 5px solid #4f4;
+.scanning-1 {
+  background-color: #fff;
 }
 
-.community-1, .community-2 {
-  border: 5px solid #f44;
+.editing-1 {
+  background-color: #fff;
+}
+
+.sharing-1 {
+  background-color: #fff;
+}
+
+.community-1 {
+  background-color: #fff;
+}
+
+.photos-2 {
+  background-color: #f2f2f2;
+}
+
+
+.editing-2 {
+  background-color: #f2f2f2;
+}
+
+.community-2 {
+  background-color: #f2f2f2;
 }
 
 .join-now {
@@ -68,7 +89,7 @@ nav a:hover {
 }
 
 a.card {
-  border-radius: 20px;
+  border-radius: 30px;
   text-decoration: none;
   color: #000;
 }
@@ -80,12 +101,12 @@ a.card:hover {
 }
 
 footer {
-  background-color: #555;
-  color: #fff;
+  background-color: #9ce4ea;
+  color: #1e969f;
 }
 
 footer a {
-  color: #fff;
+  color: #1e969f;
   text-decoration: none;
 }
 
