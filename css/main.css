@@ -29,7 +29,7 @@ nav a:hover {
   background-color: #000;
 }
 
-h1, h2, p, caption, th{
+h1, h2, p, caption, th {
   color: #1e969f;
 }
 
@@ -134,12 +134,4 @@ footer a {
 
 footer a:hover {
   color: #000;
-}
-
-.embed, .embed-1by1 {
-  padding: 3%%;
-}
-
-.embed-item {
-  padding: 0;
 }
