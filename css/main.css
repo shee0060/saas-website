@@ -29,7 +29,7 @@ nav a:hover {
   background-color: #000;
 }
 
-h1, h2, p, caption, th {
+h1, h2, p, caption, th, td {
   color: #1e969f;
 }
 
@@ -118,10 +118,6 @@ li {
   color: #1e969f;
 }
 
-th, td {
-  border: 0;
-}
-
 footer {
   background-color: #9ce4ea;
   color: #1e969f;
@@ -134,4 +130,8 @@ footer a {
 
 footer a:hover {
   color: #000;
+}
+
+td {
+  background-color: #8ce3e5;
 }
